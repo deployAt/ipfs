@@ -1,5 +1,6 @@
 # production
 /build
+build/contracts/*
 
 # dependencies
 node_modules
